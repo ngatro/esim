@@ -2,9 +2,8 @@ import Home from "@/components/Home";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "NextCommerce | Nextjs E-commerce template",
-  description: "This is Home for NextCommerce Template",
-  // other metadata
+  title: "eSIM Store | Buy International eSIM Plans Online",
+  description: "Get instant mobile data in 190+ countries with our eSIM plans. No physical SIM needed. Activate instantly and stay connected while traveling.",
 };
 
 export default function HomePage() {

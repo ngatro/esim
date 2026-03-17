@@ -1,8 +1,7 @@
 import React from "react";
-import Image from "next/image";
 import Link from "next/link";
-import ProductItem from "@/components/Common/ProductItem";
-import shopData from "@/components/Shop/shopData";
+import { esimPlans } from "@/data/esimData";
+import ESIMPlanItem from "@/components/Common/ESIMPlanItem";
 
 const NewArrival = () => {
   return (
@@ -20,21 +19,25 @@ const NewArrival = () => {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
-                  d="M3.11826 15.4622C4.11794 16.6668 5.97853 16.6668 9.69971 16.6668H10.3007C14.0219 16.6668 15.8825 16.6668 16.8821 15.4622M3.11826 15.4622C2.11857 14.2577 2.46146 12.429 3.14723 8.77153C3.63491 6.17055 3.87875 4.87006 4.8045 4.10175M3.11826 15.4622C3.11826 15.4622 3.11826 15.4622 3.11826 15.4622ZM16.8821 15.4622C17.8818 14.2577 17.5389 12.429 16.8532 8.77153C16.3655 6.17055 16.1216 4.87006 15.1959 4.10175M16.8821 15.4622C16.8821 15.4622 16.8821 15.4622 16.8821 15.4622ZM15.1959 4.10175C14.2701 3.33345 12.947 3.33345 10.3007 3.33345H9.69971C7.0534 3.33345 5.73025 3.33345 4.8045 4.10175M15.1959 4.10175C15.1959 4.10175 15.1959 4.10175 15.1959 4.10175ZM4.8045 4.10175C4.8045 4.10175 4.8045 4.10175 4.8045 4.10175Z"
+                  d="M10 18.3334C14.6024 18.3334 18.3334 14.6024 18.3334 10C18.3334 5.39765 14.6024 1.66669 10 1.66669C5.39765 1.66669 1.66669 5.39765 1.66669 10C1.66669 14.6024 5.39765 18.3334 10 18.3334Z"
                   stroke="#3C50E0"
                   strokeWidth="1.5"
                 />
                 <path
-                  d="M7.64258 6.66678C7.98578 7.63778 8.91181 8.33345 10.0003 8.33345C11.0888 8.33345 12.0149 7.63778 12.3581 6.66678"
+                  d="M1.66669 10H18.3334"
                   stroke="#3C50E0"
                   strokeWidth="1.5"
-                  strokeLinecap="round"
+                />
+                <path
+                  d="M10 1.66669C12.0844 3.94865 13.2691 6.91002 13.3334 10C13.2691 13.09 12.0844 16.0514 10 18.3334C7.91561 16.0514 6.73093 13.09 6.66669 10C6.73093 6.91002 7.91561 3.94865 10 1.66669Z"
+                  stroke="#3C50E0"
+                  strokeWidth="1.5"
                 />
               </svg>
-              This Week’s
+              Popular Plans
             </span>
             <h2 className="font-semibold text-xl xl:text-heading-5 text-dark">
-              New Arrivals
+              Featured eSIM Plans
             </h2>
           </div>
 
@@ -47,9 +50,9 @@ const NewArrival = () => {
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-x-7.5 gap-y-9">
-          {/* <!-- New Arrivals item --> */}
-          {shopData.map((item, key) => (
-            <ProductItem item={item} key={key} />
+          {/* <!-- eSIM Plan items --> */}
+          {esimPlans.map((plan, key) => (
+            <ESIMPlanItem item={plan} key={key} />
           ))}
         </div>
       </div>
