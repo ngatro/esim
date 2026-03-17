@@ -3,9 +3,8 @@ import React from "react";
 
 import { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "My Account | NextCommerce Nextjs E-commerce template",
-  description: "This is My Account page for NextCommerce Template",
-  // other metadata
+  title: "My Account | eSIM Store",
+  description: "Manage your purchased eSIMs, view QR codes for installation, and update your account settings.",
 };
 
 const MyAccountPage = () => {

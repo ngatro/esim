@@ -1,17 +1,16 @@
 import React from "react";
-import Checkout from "@/components/Checkout";
+import ESIMCheckout from "@/components/ESIMCheckout";
 
 import { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Checkout Page | NextCommerce Nextjs E-commerce template",
-  description: "This is Checkout Page for NextCommerce Template",
-  // other metadata
+  title: "Checkout | eSIM Store",
+  description: "Complete your eSIM purchase securely. Instant delivery via email with QR code for easy installation.",
 };
 
 const CheckoutPage = () => {
   return (
     <main>
-      <Checkout />
+      <ESIMCheckout />
     </main>
   );
 };
