@@ -1,0 +1,177 @@
+{
+  "common": {
+    "search": "Search",
+    "searchPlaceholder": "I am shopping for...",
+    "allCategories": "All Categories",
+    "support": "24/7 SUPPORT",
+    "account": "Account",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "home": "Home",
+    "shop": "Shop",
+    "blog": "Blog",
+    "contact": "Contact",
+    "pages": "Pages",
+    "checkout": "Checkout",
+    "myAccount": "My Account",
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "outOfStock": "Out of Stock",
+    "inStock": "In Stock",
+    "price": "Price",
+    "quantity": "Quantity",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax",
+    "discount": "Discount",
+    "applyCode": "Apply Code",
+    "proceedToCheckout": "Proceed to Checkout",
+    "continueShopping": "Continue Shopping",
+    "language": "Language"
+  },
+  "navigation": {
+    "home": "Home",
+    "shop": "Shop",
+    "shopWithSidebar": "Shop with Sidebar",
+    "shopWithoutSidebar": "Shop without Sidebar",
+    "shopDetails": "Shop Details",
+    "blog": "Blog",
+    "blogGrid": "Blog Grid",
+    "blogGridWithSidebar": "Blog Grid with Sidebar",
+    "blogDetails": "Blog Details",
+    "blogDetailsWithSidebar": "Blog Details with Sidebar",
+    "pages": "Pages",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "checkout": "Checkout",
+    "signin": "Sign In",
+    "signup": "Sign Up",
+    "myAccount": "My Account",
+    "contact": "Contact",
+    "error": "Error 404"
+  },
+  "hero": {
+    "title": "Discover Premium eSIM Plans",
+    "subtitle": "Stay connected worldwide with instant digital connectivity",
+    "shopNow": "Shop Now",
+    "limitedOffer": "Limited time offer"
+  },
+  "categories": {
+    "title": "Browse Categories",
+    "subtitle": "Find the perfect eSIM plan for your needs",
+    "desktop": "Desktop",
+    "laptop": "Laptop",
+    "monitor": "Monitor",
+    "phone": "Phone",
+    "watch": "Watch",
+    "mouse": "Mouse",
+    "tablet": "Tablet"
+  },
+  "newArrivals": {
+    "title": "New Arrivals",
+    "subtitle": "Check out the latest eSIM plans"
+  },
+  "bestSeller": {
+    "title": "Best Sellers",
+    "subtitle": "Top rated products by our customers"
+  },
+  "countdown": {
+    "title": "Deals of the Day",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Real reviews from real customers"
+  },
+  "newsletter": {
+    "title": "Subscribe to Newsletter",
+    "subtitle": "Get the latest updates and offers",
+    "placeholder": "Enter your email",
+    "subscribe": "Subscribe"
+  },
+  "footer": {
+    "helpAndSupport": "Help & Support",
+    "aboutUs": "About Us",
+    "categories": "Categories",
+    "quickLinks": "Quick Links",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "faq": "FAQ",
+    "contactUs": "Contact Us",
+    "copyright": "All rights reserved"
+  },
+  "auth": {
+    "signInTitle": "Sign In to Your Account",
+    "signUpTitle": "Create an Account",
+    "email": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "rememberMe": "Remember Me",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "orContinueWith": "Or continue with"
+  },
+  "product": {
+    "description": "Description",
+    "additionalInfo": "Additional Information",
+    "reviews": "Reviews",
+    "relatedProducts": "Related Products",
+    "addReview": "Add a Review",
+    "yourRating": "Your Rating",
+    "yourReview": "Your Review",
+    "submitReview": "Submit Review"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "emptyCart": "Your cart is empty",
+    "productDetails": "Product Details",
+    "updateCart": "Update Cart",
+    "clearCart": "Clear Cart",
+    "cartTotal": "Cart Total"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "billingDetails": "Billing Details",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "companyName": "Company Name",
+    "country": "Country",
+    "streetAddress": "Street Address",
+    "apartment": "Apartment, suite, unit etc.",
+    "city": "Town / City",
+    "state": "State",
+    "zipCode": "ZIP Code",
+    "phone": "Phone",
+    "orderNotes": "Order Notes",
+    "paymentMethod": "Payment Method",
+    "placeOrder": "Place Order"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Your Name",
+    "email": "Your Email",
+    "subject": "Subject",
+    "message": "Your Message",
+    "sendMessage": "Send Message"
+  },
+  "error": {
+    "pageNotFound": "Page Not Found",
+    "pageNotFoundMessage": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+    "goHome": "Go to Homepage"
+  },
+  "languages": {
+    "en": "English",
+    "vi": "Vietnamese",
+    "de": "German"
+  }
+}

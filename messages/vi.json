@@ -1,0 +1,177 @@
+{
+  "common": {
+    "search": "Tìm kiếm",
+    "searchPlaceholder": "Tôi đang tìm kiếm...",
+    "allCategories": "Tất cả danh mục",
+    "support": "HỖ TRỢ 24/7",
+    "account": "Tài khoản",
+    "signIn": "Đăng nhập",
+    "signUp": "Đăng ký",
+    "signOut": "Đăng xuất",
+    "cart": "Giỏ hàng",
+    "wishlist": "Danh sách yêu thích",
+    "home": "Trang chủ",
+    "shop": "Cửa hàng",
+    "blog": "Bài viết",
+    "contact": "Liên hệ",
+    "pages": "Trang",
+    "checkout": "Thanh toán",
+    "myAccount": "Tài khoản của tôi",
+    "learnMore": "Tìm hiểu thêm",
+    "viewAll": "Xem tất cả",
+    "addToCart": "Thêm vào giỏ",
+    "buyNow": "Mua ngay",
+    "outOfStock": "Hết hàng",
+    "inStock": "Còn hàng",
+    "price": "Giá",
+    "quantity": "Số lượng",
+    "total": "Tổng cộng",
+    "subtotal": "Tạm tính",
+    "shipping": "Vận chuyển",
+    "tax": "Thuế",
+    "discount": "Giảm giá",
+    "applyCode": "Áp dụng mã",
+    "proceedToCheckout": "Tiến hành thanh toán",
+    "continueShopping": "Tiếp tục mua sắm",
+    "language": "Ngôn ngữ"
+  },
+  "navigation": {
+    "home": "Trang chủ",
+    "shop": "Cửa hàng",
+    "shopWithSidebar": "Cửa hàng có thanh bên",
+    "shopWithoutSidebar": "Cửa hàng không thanh bên",
+    "shopDetails": "Chi tiết sản phẩm",
+    "blog": "Bài viết",
+    "blogGrid": "Lưới bài viết",
+    "blogGridWithSidebar": "Lưới bài viết có thanh bên",
+    "blogDetails": "Chi tiết bài viết",
+    "blogDetailsWithSidebar": "Chi tiết bài viết có thanh bên",
+    "pages": "Trang",
+    "cart": "Giỏ hàng",
+    "wishlist": "Yêu thích",
+    "checkout": "Thanh toán",
+    "signin": "Đăng nhập",
+    "signup": "Đăng ký",
+    "myAccount": "Tài khoản",
+    "contact": "Liên hệ",
+    "error": "Lỗi 404"
+  },
+  "hero": {
+    "title": "Khám phá gói eSIM cao cấp",
+    "subtitle": "Kết nối toàn cầu với kết nối số tức thì",
+    "shopNow": "Mua ngay",
+    "limitedOffer": "Ưu đãi có thời hạn"
+  },
+  "categories": {
+    "title": "Duyệt danh mục",
+    "subtitle": "Tìm gói eSIM phù hợp với nhu cầu của bạn",
+    "desktop": "Máy tính bàn",
+    "laptop": "Laptop",
+    "monitor": "Màn hình",
+    "phone": "Điện thoại",
+    "watch": "Đồng hồ",
+    "mouse": "Chuột",
+    "tablet": "Máy tính bảng"
+  },
+  "newArrivals": {
+    "title": "Sản phẩm mới",
+    "subtitle": "Xem các gói eSIM mới nhất"
+  },
+  "bestSeller": {
+    "title": "Bán chạy nhất",
+    "subtitle": "Sản phẩm được khách hàng đánh giá cao"
+  },
+  "countdown": {
+    "title": "Ưu đãi trong ngày",
+    "days": "Ngày",
+    "hours": "Giờ",
+    "minutes": "Phút",
+    "seconds": "Giây"
+  },
+  "testimonials": {
+    "title": "Khách hàng nói gì",
+    "subtitle": "Đánh giá thực từ khách hàng thực"
+  },
+  "newsletter": {
+    "title": "Đăng ký nhận tin",
+    "subtitle": "Nhận cập nhật và ưu đãi mới nhất",
+    "placeholder": "Nhập email của bạn",
+    "subscribe": "Đăng ký"
+  },
+  "footer": {
+    "helpAndSupport": "Hỗ trợ & Trợ giúp",
+    "aboutUs": "Về chúng tôi",
+    "categories": "Danh mục",
+    "quickLinks": "Liên kết nhanh",
+    "privacyPolicy": "Chính sách bảo mật",
+    "termsOfService": "Điều khoản dịch vụ",
+    "faq": "Câu hỏi thường gặp",
+    "contactUs": "Liên hệ",
+    "copyright": "Đã đăng ký bản quyền"
+  },
+  "auth": {
+    "signInTitle": "Đăng nhập tài khoản",
+    "signUpTitle": "Tạo tài khoản mới",
+    "email": "Địa chỉ email",
+    "password": "Mật khẩu",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "rememberMe": "Ghi nhớ đăng nhập",
+    "forgotPassword": "Quên mật khẩu?",
+    "noAccount": "Chưa có tài khoản?",
+    "haveAccount": "Đã có tài khoản?",
+    "orContinueWith": "Hoặc tiếp tục với"
+  },
+  "product": {
+    "description": "Mô tả",
+    "additionalInfo": "Thông tin bổ sung",
+    "reviews": "Đánh giá",
+    "relatedProducts": "Sản phẩm liên quan",
+    "addReview": "Thêm đánh giá",
+    "yourRating": "Đánh giá của bạn",
+    "yourReview": "Nhận xét của bạn",
+    "submitReview": "Gửi đánh giá"
+  },
+  "cart": {
+    "title": "Giỏ hàng",
+    "emptyCart": "Giỏ hàng của bạn trống",
+    "productDetails": "Chi tiết sản phẩm",
+    "updateCart": "Cập nhật giỏ hàng",
+    "clearCart": "Xóa giỏ hàng",
+    "cartTotal": "Tổng giỏ hàng"
+  },
+  "checkout": {
+    "title": "Thanh toán",
+    "billingDetails": "Thông tin thanh toán",
+    "firstName": "Họ",
+    "lastName": "Tên",
+    "companyName": "Tên công ty",
+    "country": "Quốc gia",
+    "streetAddress": "Địa chỉ",
+    "apartment": "Căn hộ, tòa nhà, v.v.",
+    "city": "Thành phố",
+    "state": "Tỉnh/Thành",
+    "zipCode": "Mã bưu điện",
+    "phone": "Điện thoại",
+    "orderNotes": "Ghi chú đơn hàng",
+    "paymentMethod": "Phương thức thanh toán",
+    "placeOrder": "Đặt hàng"
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "name": "Họ tên",
+    "email": "Email",
+    "subject": "Tiêu đề",
+    "message": "Nội dung",
+    "sendMessage": "Gửi tin nhắn"
+  },
+  "error": {
+    "pageNotFound": "Không tìm thấy trang",
+    "pageNotFoundMessage": "Trang bạn đang tìm có thể đã bị xóa, đổi tên hoặc tạm thời không khả dụng.",
+    "goHome": "Về trang chủ"
+  },
+  "languages": {
+    "en": "Tiếng Anh",
+    "vi": "Tiếng Việt",
+    "de": "Tiếng Đức"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "common": {
+    "search": "Suchen",
+    "searchPlaceholder": "Ich suche nach...",
+    "allCategories": "Alle Kategorien",
+    "support": "24/7 SUPPORT",
+    "account": "Konto",
+    "signIn": "Anmelden",
+    "signUp": "Registrieren",
+    "signOut": "Abmelden",
+    "cart": "Warenkorb",
+    "wishlist": "Wunschliste",
+    "home": "Startseite",
+    "shop": "Shop",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "pages": "Seiten",
+    "checkout": "Kasse",
+    "myAccount": "Mein Konto",
+    "learnMore": "Mehr erfahren",
+    "viewAll": "Alle ansehen",
+    "addToCart": "In den Warenkorb",
+    "buyNow": "Jetzt kaufen",
+    "outOfStock": "Ausverkauft",
+    "inStock": "Auf Lager",
+    "price": "Preis",
+    "quantity": "Menge",
+    "total": "Gesamt",
+    "subtotal": "Zwischensumme",
+    "shipping": "Versand",
+    "tax": "Steuern",
+    "discount": "Rabatt",
+    "applyCode": "Code anwenden",
+    "proceedToCheckout": "Zur Kasse",
+    "continueShopping": "Weiter einkaufen",
+    "language": "Sprache"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "shop": "Shop",
+    "shopWithSidebar": "Shop mit Seitenleiste",
+    "shopWithoutSidebar": "Shop ohne Seitenleiste",
+    "shopDetails": "Produktdetails",
+    "blog": "Blog",
+    "blogGrid": "Blog-Raster",
+    "blogGridWithSidebar": "Blog-Raster mit Seitenleiste",
+    "blogDetails": "Blog-Details",
+    "blogDetailsWithSidebar": "Blog-Details mit Seitenleiste",
+    "pages": "Seiten",
+    "cart": "Warenkorb",
+    "wishlist": "Wunschliste",
+    "checkout": "Kasse",
+    "signin": "Anmelden",
+    "signup": "Registrieren",
+    "myAccount": "Mein Konto",
+    "contact": "Kontakt",
+    "error": "Fehler 404"
+  },
+  "hero": {
+    "title": "Entdecken Sie Premium eSIM-Tarife",
+    "subtitle": "Bleiben Sie weltweit verbunden mit sofortiger digitaler Konnektivität",
+    "shopNow": "Jetzt einkaufen",
+    "limitedOffer": "Zeitlich begrenztes Angebot"
+  },
+  "categories": {
+    "title": "Kategorien durchsuchen",
+    "subtitle": "Finden Sie den perfekten eSIM-Tarif für Ihre Bedürfnisse",
+    "desktop": "Desktop",
+    "laptop": "Laptop",
+    "monitor": "Monitor",
+    "phone": "Handy",
+    "watch": "Uhr",
+    "mouse": "Maus",
+    "tablet": "Tablet"
+  },
+  "newArrivals": {
+    "title": "Neuheiten",
+    "subtitle": "Entdecken Sie die neuesten eSIM-Tarife"
+  },
+  "bestSeller": {
+    "title": "Bestseller",
+    "subtitle": "Top-bewertete Produkte von unseren Kunden"
+  },
+  "countdown": {
+    "title": "Angebote des Tages",
+    "days": "Tage",
+    "hours": "Stunden",
+    "minutes": "Minuten",
+    "seconds": "Sekunden"
+  },
+  "testimonials": {
+    "title": "Was unsere Kunden sagen",
+    "subtitle": "Echte Bewertungen von echten Kunden"
+  },
+  "newsletter": {
+    "title": "Newsletter abonnieren",
+    "subtitle": "Erhalten Sie die neuesten Updates und Angebote",
+    "placeholder": "E-Mail eingeben",
+    "subscribe": "Abonnieren"
+  },
+  "footer": {
+    "helpAndSupport": "Hilfe & Support",
+    "aboutUs": "Über uns",
+    "categories": "Kategorien",
+    "quickLinks": "Schnelllinks",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen",
+    "faq": "FAQ",
+    "contactUs": "Kontakt",
+    "copyright": "Alle Rechte vorbehalten"
+  },
+  "auth": {
+    "signInTitle": "In Ihr Konto einloggen",
+    "signUpTitle": "Konto erstellen",
+    "email": "E-Mail-Adresse",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "rememberMe": "Angemeldet bleiben",
+    "forgotPassword": "Passwort vergessen?",
+    "noAccount": "Noch kein Konto?",
+    "haveAccount": "Bereits ein Konto?",
+    "orContinueWith": "Oder fortfahren mit"
+  },
+  "product": {
+    "description": "Beschreibung",
+    "additionalInfo": "Zusätzliche Informationen",
+    "reviews": "Bewertungen",
+    "relatedProducts": "Ähnliche Produkte",
+    "addReview": "Bewertung hinzufügen",
+    "yourRating": "Ihre Bewertung",
+    "yourReview": "Ihre Rezension",
+    "submitReview": "Bewertung abschicken"
+  },
+  "cart": {
+    "title": "Warenkorb",
+    "emptyCart": "Ihr Warenkorb ist leer",
+    "productDetails": "Produktdetails",
+    "updateCart": "Warenkorb aktualisieren",
+    "clearCart": "Warenkorb leeren",
+    "cartTotal": "Warenkorbsumme"
+  },
+  "checkout": {
+    "title": "Kasse",
+    "billingDetails": "Rechnungsdetails",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "companyName": "Firmenname",
+    "country": "Land",
+    "streetAddress": "Straßenadresse",
+    "apartment": "Wohnung, Suite, Einheit usw.",
+    "city": "Stadt",
+    "state": "Bundesland",
+    "zipCode": "Postleitzahl",
+    "phone": "Telefon",
+    "orderNotes": "Bestellnotizen",
+    "paymentMethod": "Zahlungsmethode",
+    "placeOrder": "Bestellung aufgeben"
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "name": "Ihr Name",
+    "email": "Ihre E-Mail",
+    "subject": "Betreff",
+    "message": "Ihre Nachricht",
+    "sendMessage": "Nachricht senden"
+  },
+  "error": {
+    "pageNotFound": "Seite nicht gefunden",
+    "pageNotFoundMessage": "Die von Ihnen gesuchte Seite wurde möglicherweise entfernt, umbenannt oder ist vorübergehend nicht verfügbar.",
+    "goHome": "Zur Startseite"
+  },
+  "languages": {
+    "en": "Englisch",
+    "vi": "Vietnamesisch",
+    "de": "Deutsch"
+  }
+}
